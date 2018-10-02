@@ -1,0 +1,15 @@
+@charset "utf-8";
+#wrapper {
+    width: 1020px;
+    height: 800px;
+    background-color: #B0C4D0;
+
+}
+header {
+    font-size: 120px;
+}
+nav {
+    height: 600px;
+	background-color: #FF812C;
+	
+}
